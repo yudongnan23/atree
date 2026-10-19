@@ -13,10 +13,10 @@ import (
 
 	tea "github.com/charmbracelet/bubbletea"
 
-	"github.com/yudongnan/agent-tree/internal/claudedata"
-	"github.com/yudongnan/agent-tree/internal/state"
-	"github.com/yudongnan/agent-tree/internal/tmux"
-	"github.com/yudongnan/agent-tree/internal/tree"
+	"github.com/yudongnan23/atree/internal/claudedata"
+	"github.com/yudongnan23/atree/internal/state"
+	"github.com/yudongnan23/atree/internal/tmux"
+	"github.com/yudongnan23/atree/internal/tree"
 )
 
 // Controller is everything the sidebar does outside itself.

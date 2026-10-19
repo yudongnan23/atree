@@ -11,7 +11,7 @@ import (
 	"github.com/charmbracelet/lipgloss"
 	"github.com/mattn/go-runewidth"
 
-	"github.com/yudongnan/agent-tree/internal/gitdiff"
+	"github.com/yudongnan23/atree/internal/gitdiff"
 )
 
 const (

@@ -4,9 +4,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yudongnan/agent-tree/internal/claudedata"
-	"github.com/yudongnan/agent-tree/internal/tmux"
-	"github.com/yudongnan/agent-tree/internal/tree"
+	"github.com/yudongnan23/atree/internal/claudedata"
+	"github.com/yudongnan23/atree/internal/tmux"
+	"github.com/yudongnan23/atree/internal/tree"
 )
 
 type recRunner struct{ calls []string }

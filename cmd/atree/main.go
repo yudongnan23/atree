@@ -21,11 +21,11 @@ import (
 	"github.com/mattn/go-runewidth"
 	"golang.org/x/term"
 
-	"github.com/yudongnan/agent-tree/internal/claudedata"
-	"github.com/yudongnan/agent-tree/internal/diffui"
-	"github.com/yudongnan/agent-tree/internal/state"
-	"github.com/yudongnan/agent-tree/internal/tmux"
-	"github.com/yudongnan/agent-tree/internal/ui"
+	"github.com/yudongnan23/atree/internal/claudedata"
+	"github.com/yudongnan23/atree/internal/diffui"
+	"github.com/yudongnan23/atree/internal/state"
+	"github.com/yudongnan23/atree/internal/tmux"
+	"github.com/yudongnan23/atree/internal/ui"
 )
 
 const (

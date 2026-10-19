@@ -7,7 +7,7 @@ import (
 	"github.com/charmbracelet/lipgloss"
 	"github.com/mattn/go-runewidth"
 
-	"github.com/yudongnan/agent-tree/internal/tree"
+	"github.com/yudongnan23/atree/internal/tree"
 )
 
 const (

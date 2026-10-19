@@ -9,10 +9,10 @@ import (
 	tea "github.com/charmbracelet/bubbletea"
 	"github.com/charmbracelet/lipgloss"
 
-	"github.com/yudongnan/agent-tree/internal/claudedata"
-	"github.com/yudongnan/agent-tree/internal/state"
-	"github.com/yudongnan/agent-tree/internal/tmux"
-	"github.com/yudongnan/agent-tree/internal/tree"
+	"github.com/yudongnan23/atree/internal/claudedata"
+	"github.com/yudongnan23/atree/internal/state"
+	"github.com/yudongnan23/atree/internal/tmux"
+	"github.com/yudongnan23/atree/internal/tree"
 )
 
 var t0 = time.Date(2026, 10, 19, 12, 0, 0, 0, time.Local)

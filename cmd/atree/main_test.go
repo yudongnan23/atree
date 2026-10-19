@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/yudongnan/agent-tree/internal/tmux"
+	"github.com/yudongnan23/atree/internal/tmux"
 )
 
 func TestLaunch_RefusesInsideTmux(t *testing.T) {

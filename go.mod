@@ -1,4 +1,4 @@
-module github.com/yudongnan/agent-tree
+module github.com/yudongnan23/atree
 
 go 1.26.5
 
